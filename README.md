@@ -48,7 +48,7 @@ A complete end-to-end Project Management case study where I planned, documented,
 ✅ Deliver Quality Product
 
 ---
-
+![image](https://github.com/Itsyashasvibhati/Project_management/blob/4596686730ea9ecf58c9dd6a748808926fb8bdea/gantt-chart.png)
 # 🏆 My Responsibilities
 
 - 📋 Project Planning
