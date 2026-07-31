@@ -418,13 +418,13 @@ It showcases:
 
 ### 📫 Connect With Me
 
-🌐 Portfolio: **your-portfolio-link**
+🌐 Portfolio: my-portfolio-su5d.vercel.app
 
-💼 LinkedIn: **your-linkedin-link**
+💼 LinkedIn: https://www.linkedin.com/in/yashasvi-bhati-8444b82a1/?skipRedirect=true
 
-💻 GitHub: **your-github-link**
+💻 GitHub: https://github.com/Itsyashasvibhati
 
-📧 Email: **your-email**
+📧 Email: Itsyashasvibhati24@gmail.com
 
 ---
 
