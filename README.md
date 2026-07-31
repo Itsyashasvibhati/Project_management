@@ -27,6 +27,7 @@ Rather than simply creating documents, I managed this project exactly how a Proj
 A complete end-to-end Project Management case study where I planned, documented, tracked, and managed the development of a Food Delivery Application.
 
 ---
+![image](https://github.com/Itsyashasvibhati/Project_management/blob/0c83ac60fdbee461a467188a5a71c534c3ca0ebf/jira-dashboardFE.png)
 
 # 🎯 Project Objectives
 
